@@ -12,7 +12,7 @@
 
 ## 🎃 👻 🍪 🍬🍭🍫 🕸️ 💀 🦇 
 
-<img height="310" src="images/tree.png" align=right>
+<img height="185" src="images/tree.png" align=right>
 
 - 🎣 Where the water is quiet, so is the mind
 - 🏍️ “Let the world change you, and you can change the world.” - Che Guevara
